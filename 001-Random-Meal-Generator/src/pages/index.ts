@@ -1,2 +1,3 @@
-import IntroPage from './IntroPage'
-export { IntroPage }
+import IntroPage from "./IntroPage"
+import GeneratorPage from "./GeneratorPage"
+export { IntroPage, GeneratorPage }
