@@ -6,7 +6,7 @@
 
 | Day |	Project | Status |
 |-----|---------|:------:|
-| 001 |	Random Meal Generator | ✔️ |
+| 001 |	[Random Meal Generator](https://github.com/tlsalstn/100Projects/tree/main/001-Random-Meal-Generator) | ✔️ |
 | 002 |	2019 Mood Calendar | |
 | 003 |	Double Noise Flow Field	| |
 | 004 |	Catch the insect | |
