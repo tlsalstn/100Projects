@@ -33,7 +33,6 @@ export default defineConfig({
           vendor: [
             "node_modules/react/index.js",
             "node_modules/react-dom/index.js",
-            "node_modules/axios/index.js",
             "node_modules/styled-components/dist/styled-components.cjs.js"
           ]
         }
